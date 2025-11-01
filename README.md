@@ -1,20 +1,10 @@
-<p align="center">
-  <samp>
-    <a href="https://www.linkedin.com/in/james-yang-chialunyo/">LinkedIn</a> .
-    <a href="https://chialunyo.com/">Personal Website</a>   
-  </samp>
-</p>
+### Hello! 👋
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"> Welcome to my workplace!
+I’m a software engineer with experience in FinTech/Web3, AI, and accessibility.
 
-I am a full-stack software engineer at Easy Labs. I am also exploring my path to become a researcher to enhance human-AI/computer interaction! I am interested in and excited about how technologies can make a difference to our lives!
+Passionate about exploring new ideas and collaborating with others, I’m always open to exciting opportunities. Outside of coding, you’ll find me making music, climbing, lifting, or exploring something new.
 
-Prior to Easy Labs, I was a software engineer at We Sparkle where I built tools for entrepreneurs to promote & grow their businesses. I was also a HCI researcher that optimized Google Blockly interface with Macalester College & University of Washington research groups. 
-
-I enjoy exploring, learning & colloborating. Hit my up (chialunyo@gmail.com) if you have fun ideas / opportunities. And if I'm not working, I'm probably making music stuff, climbing, lifting, and exploring things.
-
-#### Languages and Frameworks
-<table>
+<!-- <table>
   <tr>
     <td>Programming Languages</td>
     <td>
@@ -65,7 +55,16 @@ I enjoy exploring, learning & colloborating. Hit my up (chialunyo@gmail.com) if 
       <img src="https://img.shields.io/badge/Socket.IO-%23010101.svg?style=flat-square&logo=socketdotio&logoColor=white"/>
     </td>
   </tr>
-</table>
+</table> -->
+
+<p align="left">
+  <!-- <samp> -->
+    <a> 💬 Reach me by email or LinkedIn! </a>
+    <a href>chialunyo@gmail.com</a> 
+    <a> | </a>
+    <a href="https://www.linkedin.com/in/james-yang-chialunyo/">LinkedIn</a>  
+  <!-- </samp> -->
+</p>
 
 
 
