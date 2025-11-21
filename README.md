@@ -62,7 +62,7 @@ Passionate about exploring new ideas and collaborating with others, I’m always
     <a> 💬 Reach me by email or LinkedIn! </a>
     <a href>chialunyo@gmail.com</a> 
     <a> | </a>
-    <a href="https://www.linkedin.com/in/james-yang-chialunyo/">LinkedIn</a>  
+    <a href="https://www.linkedin.com/in/chialunyo/">LinkedIn</a>  
   <!-- </samp> -->
 </p>
 
